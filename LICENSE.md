@@ -1,4 +1,4 @@
-#  
+#  updated Script for fisch it offers the most advanced fisch it Script, with infinite resources and auto-farm. Perfect for dominating any match.
 
 
 
